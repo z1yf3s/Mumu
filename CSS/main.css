@@ -1,5 +1,5 @@
 h1 {
-    color: darkorchid;
+    color: darkmagenta;
     font-family: Arial;
     text-align: center;
     text-decoration: underline;
@@ -12,4 +12,61 @@ h1 {
     color: darkblue;
     font-family: 'Times New Roman';
     text-align: center;
+}
+
+#enamorado {
+    color: gold;
+    text-align: center;
+}
+
+#top1title {
+    color: green;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.top1 {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+#hair {
+    text-decoration: underline;
+    color: orange;
+}
+
+.hair {
+    font-weight: bolder;
+    color: orange
+}
+
+#mouth {
+    font-weight: bolder;
+    color: red;
+    text-decoration: underline;
+}
+
+#top2title {
+    color: green;
+    font-weight: bolder;
+}
+
+#tts {
+    color: darkred;
+    font-weight: 900;
+    font-family: Arial;
+    text-decoration: line-through;
+}
+
+#altura {
+    color: darkred;
+    font-weight: bolder;
+    font-family: "Times New Roman";
+}
+
+#linkstitle {
+    color: darkblue;
+    font-weight: 900;
+    font-family: Arial;
+    text-decoration: underline overline;
 }
