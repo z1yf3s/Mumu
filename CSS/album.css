@@ -1,0 +1,17 @@
+h1 {
+    color: mediumslateblue;
+    text-align: center;
+    font-size: 40px;
+}
+
+hr {
+    color: steelblue;
+    letter-spacing: 30px;
+}
+
+#mainlink {
+    color: darkred;
+    font-family: Arial;
+    font-weight: bolder;
+    font-size: 20px;
+}
