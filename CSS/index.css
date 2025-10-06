@@ -2,8 +2,6 @@ body, html {
     margin: 0;
     height: 100%;
     min-height: 100vh;
-    background-color: white;
-
 }
 
 h1 {
@@ -23,7 +21,7 @@ h1 {
 
     text-shadow:
         /* Glow ardiente */
-        0 0 10px #FF4500,
+        0 0 10px lightsalmon,
         0 0 20px #FF7F50,
         0 0 30px #FFA07A,
         0 0 40px #FF8C00,
