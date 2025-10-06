@@ -1,0 +1,35 @@
+body, html {
+    margin: 0;
+    height: 100%;
+    min-height: 100vh;
+    background-color: white;
+
+}
+
+h1 {
+    margin: 0px;
+    font-family: "Playfair Display", cursive;
+    font-size: 4.3rem;
+    font-weight: 900;
+    text-align: center;
+    line-height: 1.2;
+    letter-spacing: -2px;
+
+    /* Gradient: extremos rojo ligeramente más intenso -> naranja intenso centro */
+    background: linear-gradient(45deg, #990000 0%, #FF4500 25%, #FF8C00 50%, #FF8C00 50%, #FF4500 75%, #990000 100%);
+    color: white;
+    padding: 10px;
+    padding-bottom: 16px;
+
+    text-shadow:
+        /* Glow ardiente */
+        0 0 10px #FF4500,
+        0 0 20px #FF7F50,
+        0 0 30px #FFA07A,
+        0 0 40px #FF8C00,
+
+        /* Sombra 3D dramática */
+        4px 4px 5px rgba(51,0,0,0.5),
+        6px 6px 10px rgba(51,0,0,0.6),
+        8px 8px 15px rgba(51,0,0,0.7);
+}
